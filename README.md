@@ -1,4 +1,4 @@
-- it's a normal libs
+- it's a normal person
 
 <!---
 Decrabbityyy/Decrabbityyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
