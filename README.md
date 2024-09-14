@@ -1,4 +1,6 @@
-- it's a normal rabbit
+- I want to meet you next time
+
+**See you again**
 
 <!---
 Decrabbityyy/Decrabbityyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
